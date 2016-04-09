@@ -1,7 +1,11 @@
-# Ember-contribute
+# Ember-contribute [![Build Status](https://travis-ci.org/sivakumar-kailasam/ember-contribute.svg?branch=master)](https://travis-ci.org/sivakumar-kailasam/ember-contribute)
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Consolidates issues from different official ember repos and popular ones.
+Good for contributors to identify issues that they can work on.
+
+This was inspired by the list created for the contributors workshop from EmberConf.
+So if you're running an Ember meetup, you can use this app to run a contribution night.
+Open to feedback via issues.
 
 ## Prerequisites
 
@@ -25,10 +29,6 @@ You will need the following things properly installed on your computer.
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
 ### Running Tests
 
 * `ember test`
@@ -42,12 +42,4 @@ Make use of the many generators for code, try `ember help generate` for more det
 ### Deploying
 
 Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](http://emberjs.com/)
-* [ember-cli](http://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
